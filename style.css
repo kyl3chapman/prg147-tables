@@ -1,0 +1,26 @@
+body{
+    background-color: darkslategrey;
+}
+
+th{
+    font-size: 22px;
+    font-family: cursive;
+    color: lightgrey;
+    border-bottom-color: aqua;
+    border-left-color: aqua;
+    
+}
+td{
+    font-family: fantasy;
+    border-color: darkgray;
+    color: lightslategray;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-bottom-color: aqua;
+    border-left-color: aqua;
+}
+
+a.hover:hover, a.hover:active 
+{
+    background: black;
+}
